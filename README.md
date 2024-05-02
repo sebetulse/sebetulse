@@ -1,5 +1,5 @@
 ### Hi there! I'm Betül👋
-I'm a software engineer in Turkey. 
+I'm a software engineer in Ankara/Turkey. 
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on PHP
